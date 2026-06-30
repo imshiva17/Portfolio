@@ -283,7 +283,7 @@ const Hero = () => {
       {/* Socials — left side vertical */}
       <div style={{
         position: 'absolute', left: '24px', top: '50%',
-        // transform: 'translateY(-50%)',
+        transform: 'translateY(-50%)',
         display: 'flex', flexDirection: 'column',
         gap: '20px', zIndex: 3,
       }}>
